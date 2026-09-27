@@ -1,0 +1,9 @@
+{
+  "name": "StonerLights",
+  "id": "stonerlights",
+  "version": "0.1.0",
+  "description": "Blockbench lighting effects with billboard smoke and glow systems.",
+  "author": "dangeroushiveplugs0-dev",
+  "variant": "both",
+  "min_version": "5.0.0"
+}
